@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "eid": 102,
+      "ename": "Rajesh",
+      "email": "rajesh@abc.com",
+      "mobile": 145678,
+      "id": "YexZrPRVixk"
+    },
+    {
+      "eid": 103,
+      "ename": "Charith",
+      "email": "charith@abc.com",
+      "mobile": 987656,
+      "id": "_Rj3gTv9qlI"
+    },
+    {
+      "eid": 104,
+      "ename": "Akhil",
+      "email": "akhil@abc.com",
+      "mobile": 12245,
+      "id": "Twi4vTl0zQc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
